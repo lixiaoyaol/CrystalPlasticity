@@ -96,3 +96,6 @@ updates with respect to v2.18
 ************************************************
 updates with respect to v2.19
 - slip.f - lines 429: an if statement for small values of slip is added for double exponent slip law
+************************************************
+updates with respect to v2.20
+- initializations.f - line 107: The number "100" in read statement is corrected to "200".
