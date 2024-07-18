@@ -396,7 +396,7 @@
       INTEGER, DIMENSION(4),          INTENT(IN) ::
      + JSTEP     ! Step number (load step)
       CHARACTER(LEN=80),              INTENT(IN) ::
-     + CMNAME     ! Usee-specified material name, left justified
+     + CMNAME     ! User-specified material name, left justified
       REAL(8),                        INTENT(IN) ::
      + DTIME,     ! Time increment
      + TEMP,      ! Temperature at the start of the increment
